@@ -13,9 +13,4 @@ public class IndexController {
     String index() {
         return "index";
     }
-
-    @GetMapping("/mai")
-    String main() {
-        return "mai";
-    }
 }

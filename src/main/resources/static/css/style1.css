@@ -147,8 +147,30 @@ header .header img {
   text-align: center;
 }
 
+.box-new span.image0.image-switch-hover {
+  display: none;
+}
+
+.box-new .autolinks.icons.visible.onhover {
+  display: none;
+}
+
 .box-new .short_desc p {
   width: 50%;
   margin: 0 auto;
   text-align: center;
+}
+
+footer.pafe-footer {
+  background-color: black;
+}
+
+footer.pafe-footer .col-sm-8.google-map {
+  margin-top: 30px;
+}
+
+.section-services .farm {
+  border: 1px;
+  border-style: dashed;
+  border-color: #ccc;
 }
